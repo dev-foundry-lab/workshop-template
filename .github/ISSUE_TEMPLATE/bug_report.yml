@@ -1,0 +1,12 @@
+name: Bug report
+description: Segnala un errore nel workshop
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrizione
+      description: Spiega l'errore e come riprodurlo
+    validations:
+      required: true

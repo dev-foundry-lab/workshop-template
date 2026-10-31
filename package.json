@@ -1,0 +1,8 @@
+{
+  "name": "workshop-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Template didattico Dev Foundry Lab",
+  "scripts": { "validate": "node scripts/validate.mjs" },
+  "engines": { "node": ">=22" }
+}
